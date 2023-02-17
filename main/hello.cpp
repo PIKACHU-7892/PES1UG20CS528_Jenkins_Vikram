@@ -8,6 +8,6 @@ int main(void)
   cout << "Hello, Jenkins\n";
   cout << "I have successfully built and run\n";
   cout << "My SRN is PES1UG20CS528";
-  cout<<"Wow I can edit";
+
   return 0;
 }
